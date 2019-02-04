@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: f8d671e1402c6a646b4e45d2d71b2fba
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Animation_Spirit_Walking01
+    21300002: Animation_Spirit_Idle_01
+    21300004: Animation_Spirit_Walking03
+    21300006: Animation_Spirit_Jump01
+    21300008: Animation_Spirit_Jump02
+    21300010: Animation_Spirit_Jump03
+    21300012: Animation_Spirit_Jump04
+    21300014: Animation_Spirit_AttackHorizontal
+    21300016: Animation_Spirit_AttackDown
+    21300018: Animation_Spirit_Magic01
+    21300020: Spirit_Bullet
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Spirit_Walking01
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1156
+        width: 268
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5025653, y: 0.10177368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e271465c6afaaa4439ef15a367fd12b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Spirit_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1614
+        width: 218
+        height: 330
+      alignment: 9
+      pivot: {x: 0.48866117, y: 0.11049509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b620b424d139f454daa234175850a0f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Spirit_Jump01
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1662
+        width: 279
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5722122, y: 0.057603337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4a57d88c05ba7478b2feee8aacc08a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Spirit_Jump02
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1640
+        width: 350
+        height: 309
+      alignment: 9
+      pivot: {x: 0.42191476, y: 0.11162086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1eb1f92b4cbe345abe09376e5cc151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Spirit_Jump03
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1643
+        width: 401
+        height: 332
+      alignment: 9
+      pivot: {x: 0.4842858, y: 0.16296166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cf9a06756bace47929893ad8ed82a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Spirit_Jump04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1131
+        width: 406
+        height: 383
+      alignment: 9
+      pivot: {x: 0.495717, y: 0.20488721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935bb1881da12e1498bd3c2c1d6e3294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Spirit_AttackHorizontal
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1114
+        width: 366
+        height: 335
+      alignment: 9
+      pivot: {x: 0.42451486, y: 0.086749725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ada8a633b397834d91d2aec9421656c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Spirit_AttackDown
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 751
+        width: 268
+        height: 334
+      alignment: 9
+      pivot: {x: 0.44438013, y: 0.1251133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1325bb210ed2933469b51ad57f2b7d19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Spirit_Magic01
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 676
+        width: 407
+        height: 417
+      alignment: 9
+      pivot: {x: 0.4414067, y: 0.085334025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13db19fc8a26934fb2365bab6e0d8a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirit_Bullet
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1468
+        width: 176
+        height: 103
+      alignment: 9
+      pivot: {x: 0.70900273, y: 0.48196322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c021bf86f470845459ec04b6ba36bcfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4249ccf3c5172d346bb764df272bbc9a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

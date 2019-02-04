@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: 50edf1c7994bfb24bba4df6a36a74914
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Animation_Form_Daughter_Walking01
+    21300002: Animation_Form_Daughter_Walkin02
+    21300004: Animation_Form_Daughter_Jump01
+    21300006: Animation_Form_Daughter_Jump02
+    21300008: Animation_Form_Daughter_Jump03
+    21300010: Animation_Form_Daughter_Jump04
+    21300012: Animation_Form_Daughter_WallSlideDown01
+    21300014: Animation_Form_Daughter_DoubleJumpMagic01
+    21300016: Spritesheet_Daughter_Animation_0
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Form_Daughter_Walking01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1691
+        width: 185
+        height: 167
+      alignment: 9
+      pivot: {x: 0.66753316, y: 0.0083175935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ec990f1dddd834096bbb421a8905bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Daughter_Walkin02
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1692
+        width: 200
+        height: 165
+      alignment: 9
+      pivot: {x: 0.69604445, y: 0.051177055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb97e20d217a75c488e5ad4dc8f435d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Daughter_Jump01
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1694
+        width: 181
+        height: 165
+      alignment: 9
+      pivot: {x: 0.59818906, y: 0.018673059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc73d85e5bf73b45b65419b091384b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Daughter_Jump02
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1674
+        width: 178
+        height: 208
+      alignment: 9
+      pivot: {x: 0.49341232, y: 0.032440774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d99b09c2b17a04b93577e266d4d718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Daughter_Jump03
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1666
+        width: 188
+        height: 230
+      alignment: 9
+      pivot: {x: 0.8193317, y: 0.033854343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4565a0f53a1d39d4897ddb155c0e8263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Daughter_Jump04
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1674
+        width: 153
+        height: 326
+      alignment: 9
+      pivot: {x: 0.5458482, y: 0.019874245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7ad739dcd749c4f903687768bd8a89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Daughter_WallSlideDown01
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1687
+        width: 184
+        height: 311
+      alignment: 9
+      pivot: {x: 0.34747314, y: 0.012888427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3538493a60ef5541979ea7f30e3cc4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Daughter_DoubleJumpMagic01
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1671
+        width: 267
+        height: 294
+      alignment: 9
+      pivot: {x: 0.51925737, y: 0.07277466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595f1ba4e731de94b9d9e91200d9cc44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_Daughter_Animation_0
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1691
+        width: 165
+        height: 269
+      alignment: 9
+      pivot: {x: 0.5588431, y: 0.012216561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edbf1dd5e9cbe54db795d4ca8dff601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3354718291f6e3146a9000a8c7f0dcec
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

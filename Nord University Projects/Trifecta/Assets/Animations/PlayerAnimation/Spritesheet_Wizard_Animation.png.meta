@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: d90875ae65da9f04090423de6615fbd5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Animation_Form_Wizard_Walking01
+    21300002: Animation_Form_Wizard_Walking02
+    21300004: Animation_Form_Wizard_Walking03
+    21300006: Animation_Form_Wizard_Walking04
+    21300008: Animation_Form_Wizard_Walking05
+    21300010: Animation_Form_Wizard_Jump01
+    21300012: Animation_Form_Wizard_FallUp01
+    21300014: Animation_Form_Wizard_Fall01
+    21300016: Animation_Form_Wizard_Fall02
+    21300018: Animation_Form_Wizard_Landing01
+    21300020: Smoke_Neutral
+    21300022: Smoke_Green
+    21300024: Smoke_Red
+    21300026: Smoke_Black
+    21300028: Animation_Wizard_Magic_Left1
+    21300030: Animation_Form_Wizard_Attack01
+    21300032: Animation_Wizard_Magic_Right1
+    21300034: Animation_Wizard_Magic_Left2
+    21300036: Animation_Wizard_Magic_Right2
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animation_Form_Wizard_Walking01
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1699
+        width: 158
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5001232, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15954bd6e7e5dd0429935a16f2df6001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Wizard_Walking02
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1700
+        width: 147
+        height: 203
+      alignment: 9
+      pivot: {x: 0.6139622, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e870fb59d20f064b9ba652a5dccde14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Wizard_Walking03
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1699
+        width: 157
+        height: 203
+      alignment: 9
+      pivot: {x: 0.7150051, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b55c14aab1484b9aeff671af7ea16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Wizard_Walking04
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1699
+        width: 181
+        height: 203
+      alignment: 9
+      pivot: {x: 0.6631456, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25eab11764f7844eb49629ad014ba08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Wizard_Walking05
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1701
+        width: 157
+        height: 203
+      alignment: 9
+      pivot: {x: 0.73781705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a419eabf1a1f8429dfda95bb1cd4d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Wizard_Jump01
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1600
+        width: 190
+        height: 296
+      alignment: 9
+      pivot: {x: 0.4675826, y: 0.00059055636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733ecaa9d75daf146bdecc10a07fa25e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Wizard_FallUp01
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1672
+        width: 217
+        height: 235
+      alignment: 9
+      pivot: {x: 0.4868496, y: 0.0061674076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6971a07272fc7a5439662ef613adc367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Wizard_Fall01
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1680
+        width: 219
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5086871, y: 0.0066206683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00cece71de599040995e73edc0aadbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Wizard_Fall02
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1640
+        width: 149
+        height: 360
+      alignment: 9
+      pivot: {x: 0.56384194, y: 0.04023641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648935b34f370dd438551eed28700d39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Wizard_Landing01
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1659
+        width: 167
+        height: 314
+      alignment: 9
+      pivot: {x: 0.5284804, y: 0.048617806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb65a325390edf245985ecedb05efc8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Neutral
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1269
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7170f2e4e82c2f44f8a53f2c2ab0be41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Green
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1269
+        width: 260
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5143079, y: 0.17091957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da9b9af4500af64da07c3c32e40dd84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Red
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1269
+        width: 260
+        height: 260
+      alignment: 9
+      pivot: {x: 0.4856924, y: 0.15184233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14e7e797a7fc78498272cb06d2d7211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke_Black
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1273
+        width: 260
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13276508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13427dd3db4c459488f75103809735c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Form_Wizard_Attack01
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1282
+        width: 280
+        height: 244
+      alignment: 9
+      pivot: {x: 0.23537293, y: 0.07546547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43df2c809f4bbe4c92582e6da713af7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Wizard_Magic_Left1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 967
+        width: 194
+        height: 238
+      alignment: 9
+      pivot: {x: 0.37404412, y: 0.034319453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd8374b3c3d7964fb63bde38952d14b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Wizard_Magic_Right1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 733
+        width: 218
+        height: 221
+      alignment: 9
+      pivot: {x: 0.36389175, y: 0.08932095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db52328e925e46543bc74f0ef0b03746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Wizard_Magic_Left2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 958
+        width: 205
+        height: 251
+      alignment: 9
+      pivot: {x: 0.6387351, y: 0.064891554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf2152eea9f7de4da2c364035816ea8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animation_Wizard_Magic_Right2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 733
+        width: 227
+        height: 225
+      alignment: 9
+      pivot: {x: 0.68228245, y: 0.05983941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed25c64084bff6a4784b33f2cbff8831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c44ecb609e688434199d35ae65d2d11d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
