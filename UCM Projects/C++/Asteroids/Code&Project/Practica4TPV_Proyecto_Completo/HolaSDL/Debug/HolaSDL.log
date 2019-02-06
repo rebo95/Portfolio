@@ -1,0 +1,59 @@
+﻿  Vector2D.cpp
+  Texture.cpp
+  StarTrekBulletManager.cpp
+  SoundManager.cpp
+  SoundEffect.cpp
+  SkeletonRenderer.cpp
+c:\users\rebo\desktop\ucm\tpv\practica4tpv\proyectossdl (1)\proyectossdl\proyectossdl - copia\holasdl\skeletonrenderer.cpp(42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\rebo\desktop\ucm\tpv\practica4tpv\proyectossdl (1)\proyectossdl\proyectossdl - copia\holasdl\skeletonrenderer.cpp(44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\rebo\desktop\ucm\tpv\practica4tpv\proyectossdl (1)\proyectossdl\proyectossdl - copia\holasdl\skeletonrenderer.cpp(46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\rebo\desktop\ucm\tpv\practica4tpv\proyectossdl (1)\proyectossdl\proyectossdl - copia\holasdl\skeletonrenderer.cpp(48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\rebo\desktop\ucm\tpv\practica4tpv\proyectossdl (1)\proyectossdl\proyectossdl - copia\holasdl\skeletonrenderer.cpp(53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\rebo\desktop\ucm\tpv\practica4tpv\proyectossdl (1)\proyectossdl\proyectossdl - copia\holasdl\skeletonrenderer.cpp(61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SDLGame.cpp
+  ScoreRenderer.cpp
+  RotationPhysics.cpp
+  Resources.cpp
+  RenderComponent.cpp
+  PhysicsComponent.cpp
+  Observer.cpp
+  Observable.cpp
+  CircularMotionPhysics.cpp
+  myInputComp.cpp
+  Music.cpp
+  main.cpp
+  LiveRenderer.cpp
+  InputComponent.cpp
+  Generating Code...
+  Compiling...
+  ImageRenderer.cpp
+  GunInputComponent.cpp
+c:\users\rebo\desktop\ucm\tpv\practica4tpv\proyectossdl (1)\proyectossdl\proyectossdl - copia\holasdl\guninputcomponent.cpp(24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GameObject.cpp
+  GameMsgRenderer.cpp
+  GameManager.cpp
+  GameCtrlInputComponent.cpp
+  Container.cpp
+  Font.cpp
+  FillRectRenderer.cpp
+  FightersManager.cpp
+  Fighter.cpp
+  ExampleGame.cpp
+  DemoActor.cpp
+  Collisions.cpp
+  CollisionManager.cpp
+  BulletsManager.cpp
+  Bullet.cpp
+  BasicMotionPhysics.cpp
+  BasicKBCtrlComponent.cpp
+  BadgeTimer.cpp
+  Generating Code...
+  Compiling...
+  BadgeRenderer.cpp
+  AsteroidsManager.cpp
+  Asteroid.cpp
+  AccelerationImputComponent.cpp
+  Generating Code...
+     Creating library C:\Users\rebo\Desktop\UCM\TPV\Practica4TPV\ProyectosSDL (1)\ProyectosSDL\ProyectosSDL - copia\bin\HolaSDLDebug.lib and object C:\Users\rebo\Desktop\UCM\TPV\Practica4TPV\ProyectosSDL (1)\ProyectosSDL\ProyectosSDL - copia\bin\HolaSDLDebug.exp
+  HolaSDL.vcxproj -> C:\Users\rebo\Desktop\UCM\TPV\Practica4TPV\ProyectosSDL (1)\ProyectosSDL\ProyectosSDL - copia\bin\HolaSDLDebug.exe
+  HolaSDL.vcxproj -> C:\Users\rebo\Desktop\UCM\TPV\Practica4TPV\ProyectosSDL (1)\ProyectosSDL\ProyectosSDL - copia\bin\HolaSDLDebug.pdb (Full PDB)
