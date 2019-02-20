@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practicainformatica2.0", "practicainformatica2.0\practicainformatica2.0.csproj", "{6E476EA1-6E3A-4568-90C9-417D190B6863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E476EA1-6E3A-4568-90C9-417D190B6863}.Debug|x86.ActiveCfg = Debug|x86
+		{6E476EA1-6E3A-4568-90C9-417D190B6863}.Debug|x86.Build.0 = Debug|x86
+		{6E476EA1-6E3A-4568-90C9-417D190B6863}.Release|x86.ActiveCfg = Release|x86
+		{6E476EA1-6E3A-4568-90C9-417D190B6863}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

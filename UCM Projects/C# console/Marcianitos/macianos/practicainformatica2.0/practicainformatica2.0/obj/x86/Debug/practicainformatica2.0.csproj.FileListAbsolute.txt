@@ -1,0 +1,12 @@
+C:\Users\rebo\Documents\Projects\practicainformatica2.0\practicainformatica2.0\bin\Debug\practicainformatica2.0.exe
+C:\Users\rebo\Documents\Projects\practicainformatica2.0\practicainformatica2.0\bin\Debug\practicainformatica2.0.pdb
+C:\Users\rebo\Documents\Projects\practicainformatica2.0\practicainformatica2.0\obj\x86\Debug\practicainformatica2.0.exe
+C:\Users\rebo\Documents\Projects\practicainformatica2.0\practicainformatica2.0\obj\x86\Debug\practicainformatica2.0.pdb
+C:\Users\rebo\Desktop\practicainformatica2.0\practicainformatica2.0\bin\Debug\practicainformatica2.0.exe
+C:\Users\rebo\Desktop\practicainformatica2.0\practicainformatica2.0\bin\Debug\practicainformatica2.0.pdb
+C:\Users\rebo\Desktop\practicainformatica2.0\practicainformatica2.0\obj\x86\Debug\practicainformatica2.0.exe
+C:\Users\rebo\Desktop\practicainformatica2.0\practicainformatica2.0\obj\x86\Debug\practicainformatica2.0.pdb
+C:\Users\rebo\Desktop\csarp\macianos\practicainformatica2.0\practicainformatica2.0\bin\Debug\practicainformatica2.0.exe
+C:\Users\rebo\Desktop\csarp\macianos\practicainformatica2.0\practicainformatica2.0\bin\Debug\practicainformatica2.0.pdb
+C:\Users\rebo\Desktop\csarp\macianos\practicainformatica2.0\practicainformatica2.0\obj\x86\Debug\practicainformatica2.0.exe
+C:\Users\rebo\Desktop\csarp\macianos\practicainformatica2.0\practicainformatica2.0\obj\x86\Debug\practicainformatica2.0.pdb

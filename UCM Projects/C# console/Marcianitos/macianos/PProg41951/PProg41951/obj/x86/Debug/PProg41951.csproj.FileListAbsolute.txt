@@ -1,0 +1,8 @@
+C:\Users\rebo\Desktop\PProg41951\PProg41951\bin\Debug\PProg41951.exe
+C:\Users\rebo\Desktop\PProg41951\PProg41951\bin\Debug\PProg41951.pdb
+C:\Users\rebo\Desktop\PProg41951\PProg41951\obj\x86\Debug\PProg41951.exe
+C:\Users\rebo\Desktop\PProg41951\PProg41951\obj\x86\Debug\PProg41951.pdb
+C:\Users\rebo\Desktop\practicafinalroi\PProg41951\PProg41951\bin\Debug\PProg41951.exe
+C:\Users\rebo\Desktop\practicafinalroi\PProg41951\PProg41951\bin\Debug\PProg41951.pdb
+C:\Users\rebo\Desktop\practicafinalroi\PProg41951\PProg41951\obj\x86\Debug\PProg41951.exe
+C:\Users\rebo\Desktop\practicafinalroi\PProg41951\PProg41951\obj\x86\Debug\PProg41951.pdb

@@ -1,0 +1,9 @@
+C:\Users\rebo\Desktop\practicafinalroi\practicafinalroi\bin\Debug\practicafinalroi.exe
+C:\Users\rebo\Desktop\practicafinalroi\practicafinalroi\bin\Debug\practicafinalroi.pdb
+C:\Users\rebo\Desktop\practicafinalroi\practicafinalroi\obj\x86\Debug\practicafinalroi.exe
+C:\Users\rebo\Desktop\practicafinalroi\practicafinalroi\obj\x86\Debug\practicafinalroi.pdb
+C:\Users\rebo\Desktop\UCM\SegundoCurso\Artes\bodegon\Intelligence\Universidad\Facultad\SEGUNDOCUATRI\Programacion\Fundamentos de Programacion\Practicas\macianos\practicafinalroi\obj\x86\Debug\practicafinalroi.exe
+C:\Users\rebo\Desktop\UCM\SegundoCurso\Artes\bodegon\Intelligence\Universidad\Facultad\SEGUNDOCUATRI\Programacion\Fundamentos de Programacion\Practicas\macianos\practicafinalroi\obj\x86\Debug\practicafinalroi.pdb
+C:\Users\rebo\Desktop\UCM\SegundoCurso\Artes\bodegon\Intelligence\Universidad\Facultad\SEGUNDOCUATRI\Programacion\Fundamentos de Programacion\Practicas\macianos\practicafinalroi\bin\Debug\practicafinalroi.exe
+C:\Users\rebo\Desktop\UCM\SegundoCurso\Artes\bodegon\Intelligence\Universidad\Facultad\SEGUNDOCUATRI\Programacion\Fundamentos de Programacion\Practicas\macianos\practicafinalroi\bin\Debug\practicafinalroi.pdb
+C:\Users\rebo\Desktop\UCM\SegundoCurso\Artes\bodegon\Intelligence\Universidad\Facultad\SEGUNDOCUATRI\Programacion\Fundamentos de Programacion\Practicas\macianos\practicafinalroi\obj\x86\Debug\practicafinalroi.csprojResolveAssemblyReference.cache

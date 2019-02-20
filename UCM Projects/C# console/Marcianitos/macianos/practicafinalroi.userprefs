@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{02D79EFE-745D-4DAA-BB0B-32D8E8840865}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="practicafinalroi\Program.cs">
+    <Files>
+      <File FileName="practicafinalroi\Program.cs" Line="162" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.practicafinalroi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

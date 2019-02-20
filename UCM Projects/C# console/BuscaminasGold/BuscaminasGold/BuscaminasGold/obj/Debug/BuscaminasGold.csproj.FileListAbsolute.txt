@@ -1,0 +1,22 @@
+C:\Users\rebo\Desktop\BuscaminasGold\BuscaminasGold\bin\Debug\BuscaminasGold.exe.config
+C:\Users\rebo\Desktop\BuscaminasGold\BuscaminasGold\bin\Debug\BuscaminasGold.exe
+C:\Users\rebo\Desktop\BuscaminasGold\BuscaminasGold\bin\Debug\BuscaminasGold.pdb
+C:\Users\rebo\Desktop\BuscaminasGold\BuscaminasGold\obj\Debug\BuscaminasGold.csprojResolveAssemblyReference.cache
+C:\Users\rebo\Desktop\BuscaminasGold\BuscaminasGold\obj\Debug\BuscaminasGold.exe
+C:\Users\rebo\Desktop\BuscaminasGold\BuscaminasGold\obj\Debug\BuscaminasGold.pdb
+C:\Users\rebo\Desktop\Intelligence\Universidad\SEGUNDOCUATRI\programacion\Fundamentos de Programacion\Practicas\BuscaminasGold\BuscaminasGold\bin\Debug\BuscaminasGold.exe.config
+C:\Users\rebo\Desktop\Intelligence\Universidad\SEGUNDOCUATRI\programacion\Fundamentos de Programacion\Practicas\BuscaminasGold\BuscaminasGold\obj\Debug\BuscaminasGold.exe
+C:\Users\rebo\Desktop\Intelligence\Universidad\SEGUNDOCUATRI\programacion\Fundamentos de Programacion\Practicas\BuscaminasGold\BuscaminasGold\obj\Debug\BuscaminasGold.pdb
+C:\Users\rebo\Desktop\UCM\SegundoCurso\Artes\bodegon\Intelligence\Universidad\Facultad\SEGUNDOCUATRI\Programacion\Fundamentos de Programacion\Practicas\BuscaminasGold\BuscaminasGold\bin\Debug\BuscaminasGold.exe.config
+C:\Users\rebo\Desktop\UCM\SegundoCurso\Artes\bodegon\Intelligence\Universidad\Facultad\SEGUNDOCUATRI\Programacion\Fundamentos de Programacion\Practicas\BuscaminasGold\BuscaminasGold\obj\Debug\BuscaminasGold.exe
+C:\Users\rebo\Desktop\UCM\SegundoCurso\Artes\bodegon\Intelligence\Universidad\Facultad\SEGUNDOCUATRI\Programacion\Fundamentos de Programacion\Practicas\BuscaminasGold\BuscaminasGold\obj\Debug\BuscaminasGold.pdb
+C:\Users\rebo\Desktop\UCM\SegundoCurso\Artes\bodegon\Intelligence\Universidad\Facultad\SEGUNDOCUATRI\Programacion\Fundamentos de Programacion\Practicas\BuscaminasGold\BuscaminasGold\bin\Debug\BuscaminasGold.exe
+C:\Users\rebo\Desktop\UCM\SegundoCurso\Artes\bodegon\Intelligence\Universidad\Facultad\SEGUNDOCUATRI\Programacion\Fundamentos de Programacion\Practicas\BuscaminasGold\BuscaminasGold\bin\Debug\BuscaminasGold.pdb
+C:\Users\rebo\Desktop\UCM\SegundoCurso\Artes\bodegon\Intelligence\Universidad\Facultad\SEGUNDOCUATRI\Programacion\Fundamentos de Programacion\Practicas\BuscaminasGold\BuscaminasGold\obj\Debug\BuscaminasGold.csprojResolveAssemblyReference.cache
+C:\Users\rebo\Desktop\UCM\MyPortfolio_\C#proyects\BuscaminasGold\BuscaminasGold\BuscaminasGold\bin\Debug\BuscaminasGold.exe.config
+C:\Users\rebo\Desktop\UCM\MyPortfolio_\C#proyects\BuscaminasGold\BuscaminasGold\BuscaminasGold\bin\Debug\BuscaminasGold.exe
+C:\Users\rebo\Desktop\UCM\MyPortfolio_\C#proyects\BuscaminasGold\BuscaminasGold\BuscaminasGold\bin\Debug\BuscaminasGold.pdb
+C:\Users\rebo\Desktop\UCM\MyPortfolio_\C#proyects\BuscaminasGold\BuscaminasGold\BuscaminasGold\obj\Debug\BuscaminasGold.csprojAssemblyReference.cache
+C:\Users\rebo\Desktop\UCM\MyPortfolio_\C#proyects\BuscaminasGold\BuscaminasGold\BuscaminasGold\obj\Debug\BuscaminasGold.csproj.CoreCompileInputs.cache
+C:\Users\rebo\Desktop\UCM\MyPortfolio_\C#proyects\BuscaminasGold\BuscaminasGold\BuscaminasGold\obj\Debug\BuscaminasGold.exe
+C:\Users\rebo\Desktop\UCM\MyPortfolio_\C#proyects\BuscaminasGold\BuscaminasGold\BuscaminasGold\obj\Debug\BuscaminasGold.pdb
